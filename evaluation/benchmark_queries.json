@@ -1,0 +1,92 @@
+[
+  {
+    "query": "What is the Transformer architecture and what are its main components?",
+    "modality": "text+figure",
+    "relevant_pages": ["attention_paper, p. 3", "attention_paper, p. 4"],
+    "notes": "Figure 1 (model architecture) is on p.3, encoder/decoder description on p.3-4"
+  },
+  {
+    "query": "How does multi-head attention work?",
+    "modality": "text+figure",
+    "relevant_pages": ["attention_paper, p. 4", "attention_paper, p. 5"],
+    "notes": "Multi-head attention diagram and equations on p.4-5"
+  },
+  {
+    "query": "What are the BLEU score results of the Transformer on machine translation?",
+    "modality": "table",
+    "relevant_pages": ["attention_paper, p. 8"],
+    "notes": "Table 2 with WMT translation results is on p.8"
+  },
+  {
+    "query": "What is ColPali and how does it differ from traditional document retrieval?",
+    "modality": "text+figure",
+    "relevant_pages": ["colpali_paper, p. 1", "colpali_paper, p. 2"],
+    "notes": "Abstract and introduction comparing ColPali to OCR-based pipelines"
+  },
+  {
+    "query": "What is the ViDoRe benchmark and what domains does it cover?",
+    "modality": "table",
+    "relevant_pages": ["colpali_paper, p. 5", "colpali_paper, p. 6"],
+    "notes": "ViDoRe benchmark table with domain breakdown"
+  },
+  {
+    "query": "How does ColPali perform compared to other retrieval methods on ViDoRe?",
+    "modality": "table+chart",
+    "relevant_pages": ["colpali_paper, p. 7", "colpali_paper, p. 8"],
+    "notes": "Main results table comparing ColPali vs baselines"
+  },
+  {
+    "query": "What is the current amount of space debris in low Earth orbit?",
+    "modality": "text+chart",
+    "relevant_pages": ["esa_space_environment, p. 1", "esa_space_environment, p. 2"],
+    "notes": "Executive summary with debris statistics and growth chart"
+  },
+  {
+    "query": "What percentage of satellites comply with the 25-year deorbit rule?",
+    "modality": "chart",
+    "relevant_pages": ["esa_space_environment, p. 5", "esa_space_environment, p. 6"],
+    "notes": "Compliance rate charts for LEO deorbit rule"
+  },
+  {
+    "query": "How has the number of space launches changed over recent years?",
+    "modality": "chart",
+    "relevant_pages": ["esa_space_environment, p. 3", "esa_space_environment, p. 4"],
+    "notes": "Launch traffic trend charts"
+  },
+  {
+    "query": "What professional exams did GPT-4 pass and what scores did it achieve?",
+    "modality": "table+chart",
+    "relevant_pages": ["gpt4_paper, p. 3", "gpt4_paper, p. 4"],
+    "notes": "Table/chart of exam results (bar chart) across professional exams"
+  },
+  {
+    "query": "How was GPT-4 evaluated for safety and what risks were identified?",
+    "modality": "text",
+    "relevant_pages": ["gpt4_paper, p. 8", "gpt4_paper, p. 9"],
+    "notes": "Safety evaluation section"
+  },
+  {
+    "query": "What is sliding window attention in Mistral?",
+    "modality": "text+figure",
+    "relevant_pages": ["mistral_paper, p. 2", "mistral_paper, p. 3"],
+    "notes": "Sliding window attention description and diagram"
+  },
+  {
+    "query": "How does Mistral 7B compare to Llama 2 on benchmarks?",
+    "modality": "table",
+    "relevant_pages": ["mistral_paper, p. 4", "mistral_paper, p. 5"],
+    "notes": "Benchmark comparison table Mistral vs Llama 2"
+  },
+  {
+    "query": "What is grouped query attention and why is it used in Mistral?",
+    "modality": "text+figure",
+    "relevant_pages": ["mistral_paper, p. 3"],
+    "notes": "GQA explanation and figure"
+  },
+  {
+    "query": "What are the main findings about orbital collision probability trends?",
+    "modality": "chart",
+    "relevant_pages": ["esa_space_environment, p. 8", "esa_space_environment, p. 9"],
+    "notes": "Collision probability trend charts"
+  }
+]

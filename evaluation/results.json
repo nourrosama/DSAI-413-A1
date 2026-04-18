@@ -1,0 +1,302 @@
+{
+  "summary": {
+    "num_queries": 15,
+    "mean_latency_ms": 14995.0,
+    "mean_recall_at_1": 0.2,
+    "mean_recall_at_5": 0.4,
+    "mean_ndcg_at_5": 0.367,
+    "by_modality": {
+      "text+figure": 0.57,
+      "table": 0.333,
+      "table+chart": 0.0,
+      "text+chart": 0.0,
+      "chart": 0.55,
+      "text": 0.0
+    }
+  },
+  "queries": [
+    {
+      "query": "What is the Transformer architecture and what are its main components?",
+      "modality": "text+figure",
+      "retrieved": [
+        "attention_paper, p. 3",
+        "attention_paper, p. 9",
+        "mistral_paper, p. 4",
+        "attention_paper, p. 5",
+        "attention_paper, p. 10"
+      ],
+      "relevant": [
+        "attention_paper, p. 3",
+        "attention_paper, p. 4"
+      ],
+      "latency_ms": 14072.0,
+      "recall@1": 0.5,
+      "recall@5": 0.5,
+      "ndcg@5": 0.613
+    },
+    {
+      "query": "How does multi-head attention work?",
+      "modality": "text+figure",
+      "retrieved": [
+        "attention_paper, p. 4",
+        "attention_paper, p. 5",
+        "attention_paper, p. 2",
+        "attention_paper, p. 3",
+        "attention_paper, p. 14"
+      ],
+      "relevant": [
+        "attention_paper, p. 4",
+        "attention_paper, p. 5"
+      ],
+      "latency_ms": 10316.5,
+      "recall@1": 0.5,
+      "recall@5": 1.0,
+      "ndcg@5": 1.0
+    },
+    {
+      "query": "What are the BLEU score results of the Transformer on machine translation?",
+      "modality": "table",
+      "retrieved": [
+        "attention_paper, p. 8",
+        "attention_paper, p. 9",
+        "attention_paper, p. 1",
+        "mistral_paper, p. 10",
+        "attention_paper, p. 10"
+      ],
+      "relevant": [
+        "attention_paper, p. 8"
+      ],
+      "latency_ms": 12885.8,
+      "recall@1": 1.0,
+      "recall@5": 1.0,
+      "ndcg@5": 1.0
+    },
+    {
+      "query": "What is ColPali and how does it differ from traditional document retrieval?",
+      "modality": "text+figure",
+      "retrieved": [
+        "colpali_paper, p. 1",
+        "colpali_paper, p. 2",
+        "colpali_paper, p. 18",
+        "colpali_paper, p. 8",
+        "colpali_paper, p. 19"
+      ],
+      "relevant": [
+        "colpali_paper, p. 1",
+        "colpali_paper, p. 2"
+      ],
+      "latency_ms": 14182.1,
+      "recall@1": 0.5,
+      "recall@5": 1.0,
+      "ndcg@5": 1.0
+    },
+    {
+      "query": "What is the ViDoRe benchmark and what domains does it cover?",
+      "modality": "table",
+      "retrieved": [
+        "colpali_paper, p. 4",
+        "colpali_paper, p. 10",
+        "colpali_paper, p. 7",
+        "colpali_paper, p. 18",
+        "colpali_paper, p. 9"
+      ],
+      "relevant": [
+        "colpali_paper, p. 5",
+        "colpali_paper, p. 6"
+      ],
+      "latency_ms": 13594.4,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "How does ColPali perform compared to other retrieval methods on ViDoRe?",
+      "modality": "table+chart",
+      "retrieved": [
+        "colpali_paper, p. 2",
+        "colpali_paper, p. 18",
+        "colpali_paper, p. 10",
+        "colpali_paper, p. 9",
+        "colpali_paper, p. 1"
+      ],
+      "relevant": [
+        "colpali_paper, p. 7",
+        "colpali_paper, p. 8"
+      ],
+      "latency_ms": 14987.0,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "What is the current amount of space debris in low Earth orbit?",
+      "modality": "text+chart",
+      "retrieved": [
+        "esa_space_environment, p. 4",
+        "esa_space_environment, p. 16",
+        "esa_space_environment, p. 8",
+        "esa_space_environment, p. 12",
+        "esa_space_environment, p. 7"
+      ],
+      "relevant": [
+        "esa_space_environment, p. 1",
+        "esa_space_environment, p. 2"
+      ],
+      "latency_ms": 14126.6,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "What percentage of satellites comply with the 25-year deorbit rule?",
+      "modality": "chart",
+      "retrieved": [
+        "esa_space_environment, p. 7",
+        "esa_space_environment, p. 6",
+        "esa_space_environment, p. 3",
+        "esa_space_environment, p. 17",
+        "esa_space_environment, p. 16"
+      ],
+      "relevant": [
+        "esa_space_environment, p. 5",
+        "esa_space_environment, p. 6"
+      ],
+      "latency_ms": 14062.9,
+      "recall@1": 0.0,
+      "recall@5": 0.5,
+      "ndcg@5": 0.387
+    },
+    {
+      "query": "How has the number of space launches changed over recent years?",
+      "modality": "chart",
+      "retrieved": [
+        "esa_space_environment, p. 4",
+        "esa_space_environment, p. 17",
+        "esa_space_environment, p. 18",
+        "esa_space_environment, p. 10",
+        "esa_space_environment, p. 9"
+      ],
+      "relevant": [
+        "esa_space_environment, p. 3",
+        "esa_space_environment, p. 4"
+      ],
+      "latency_ms": 15241.4,
+      "recall@1": 0.5,
+      "recall@5": 0.5,
+      "ndcg@5": 0.613
+    },
+    {
+      "query": "What professional exams did GPT-4 pass and what scores did it achieve?",
+      "modality": "table+chart",
+      "retrieved": [
+        "gpt4_paper, p. 6",
+        "gpt4_paper, p. 1",
+        "gpt4_paper, p. 5",
+        "gpt4_paper, p. 11",
+        "gpt4_paper, p. 8"
+      ],
+      "relevant": [
+        "gpt4_paper, p. 3",
+        "gpt4_paper, p. 4"
+      ],
+      "latency_ms": 17296.6,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "How was GPT-4 evaluated for safety and what risks were identified?",
+      "modality": "text",
+      "retrieved": [
+        "gpt4_paper, p. 11",
+        "gpt4_paper, p. 14",
+        "gpt4_paper, p. 2",
+        "gpt4_paper, p. 1",
+        "gpt4_paper, p. 10"
+      ],
+      "relevant": [
+        "gpt4_paper, p. 8",
+        "gpt4_paper, p. 9"
+      ],
+      "latency_ms": 17175.9,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "What is sliding window attention in Mistral?",
+      "modality": "text+figure",
+      "retrieved": [
+        "attention_paper, p. 15",
+        "attention_paper, p. 14",
+        "attention_paper, p. 4",
+        "attention_paper, p. 1",
+        "mistral_paper, p. 3"
+      ],
+      "relevant": [
+        "mistral_paper, p. 2",
+        "mistral_paper, p. 3"
+      ],
+      "latency_ms": 15440.4,
+      "recall@1": 0.0,
+      "recall@5": 0.5,
+      "ndcg@5": 0.237
+    },
+    {
+      "query": "How does Mistral 7B compare to Llama 2 on benchmarks?",
+      "modality": "table",
+      "retrieved": [
+        "mistral_paper, p. 8",
+        "gpt4_paper, p. 7",
+        "mistral_paper, p. 10",
+        "colpali_paper, p. 7",
+        "mistral_paper, p. 7"
+      ],
+      "relevant": [
+        "mistral_paper, p. 4",
+        "mistral_paper, p. 5"
+      ],
+      "latency_ms": 17745.3,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "What is grouped query attention and why is it used in Mistral?",
+      "modality": "text+figure",
+      "retrieved": [
+        "colpali_paper, p. 16",
+        "colpali_paper, p. 9",
+        "gpt4_paper, p. 11",
+        "attention_paper, p. 4",
+        "colpali_paper, p. 4"
+      ],
+      "relevant": [
+        "mistral_paper, p. 3"
+      ],
+      "latency_ms": 16723.5,
+      "recall@1": 0.0,
+      "recall@5": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "What are the main findings about orbital collision probability trends?",
+      "modality": "chart",
+      "retrieved": [
+        "esa_space_environment, p. 7",
+        "esa_space_environment, p. 8",
+        "esa_space_environment, p. 4",
+        "esa_space_environment, p. 9",
+        "esa_space_environment, p. 3"
+      ],
+      "relevant": [
+        "esa_space_environment, p. 8",
+        "esa_space_environment, p. 9"
+      ],
+      "latency_ms": 17074.9,
+      "recall@1": 0.0,
+      "recall@5": 1.0,
+      "ndcg@5": 0.651
+    }
+  ]
+}

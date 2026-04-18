@@ -1,0 +1,667 @@
+[
+  {
+    "doc_id": 0,
+    "pdf_name": "attention_paper",
+    "page_number": 1,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0001.jpg"
+  },
+  {
+    "doc_id": 1,
+    "pdf_name": "attention_paper",
+    "page_number": 2,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0002.jpg"
+  },
+  {
+    "doc_id": 2,
+    "pdf_name": "attention_paper",
+    "page_number": 3,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0003.jpg"
+  },
+  {
+    "doc_id": 3,
+    "pdf_name": "attention_paper",
+    "page_number": 4,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0004.jpg"
+  },
+  {
+    "doc_id": 4,
+    "pdf_name": "attention_paper",
+    "page_number": 5,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0005.jpg"
+  },
+  {
+    "doc_id": 5,
+    "pdf_name": "attention_paper",
+    "page_number": 6,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0006.jpg"
+  },
+  {
+    "doc_id": 6,
+    "pdf_name": "attention_paper",
+    "page_number": 7,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0007.jpg"
+  },
+  {
+    "doc_id": 7,
+    "pdf_name": "attention_paper",
+    "page_number": 8,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0008.jpg"
+  },
+  {
+    "doc_id": 8,
+    "pdf_name": "attention_paper",
+    "page_number": 9,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0009.jpg"
+  },
+  {
+    "doc_id": 9,
+    "pdf_name": "attention_paper",
+    "page_number": 10,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0010.jpg"
+  },
+  {
+    "doc_id": 10,
+    "pdf_name": "attention_paper",
+    "page_number": 11,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0011.jpg"
+  },
+  {
+    "doc_id": 11,
+    "pdf_name": "attention_paper",
+    "page_number": 12,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0012.jpg"
+  },
+  {
+    "doc_id": 12,
+    "pdf_name": "attention_paper",
+    "page_number": 13,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0013.jpg"
+  },
+  {
+    "doc_id": 13,
+    "pdf_name": "attention_paper",
+    "page_number": 14,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0014.jpg"
+  },
+  {
+    "doc_id": 14,
+    "pdf_name": "attention_paper",
+    "page_number": 15,
+    "total_pages": 15,
+    "image_path": "data/index/thumbnails/attention_paper_p0015.jpg"
+  },
+  {
+    "doc_id": 15,
+    "pdf_name": "colpali_paper",
+    "page_number": 1,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0001.jpg"
+  },
+  {
+    "doc_id": 16,
+    "pdf_name": "colpali_paper",
+    "page_number": 2,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0002.jpg"
+  },
+  {
+    "doc_id": 17,
+    "pdf_name": "colpali_paper",
+    "page_number": 3,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0003.jpg"
+  },
+  {
+    "doc_id": 18,
+    "pdf_name": "colpali_paper",
+    "page_number": 4,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0004.jpg"
+  },
+  {
+    "doc_id": 19,
+    "pdf_name": "colpali_paper",
+    "page_number": 5,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0005.jpg"
+  },
+  {
+    "doc_id": 20,
+    "pdf_name": "colpali_paper",
+    "page_number": 6,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0006.jpg"
+  },
+  {
+    "doc_id": 21,
+    "pdf_name": "colpali_paper",
+    "page_number": 7,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0007.jpg"
+  },
+  {
+    "doc_id": 22,
+    "pdf_name": "colpali_paper",
+    "page_number": 8,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0008.jpg"
+  },
+  {
+    "doc_id": 23,
+    "pdf_name": "colpali_paper",
+    "page_number": 9,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0009.jpg"
+  },
+  {
+    "doc_id": 24,
+    "pdf_name": "colpali_paper",
+    "page_number": 10,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0010.jpg"
+  },
+  {
+    "doc_id": 25,
+    "pdf_name": "colpali_paper",
+    "page_number": 11,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0011.jpg"
+  },
+  {
+    "doc_id": 26,
+    "pdf_name": "colpali_paper",
+    "page_number": 12,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0012.jpg"
+  },
+  {
+    "doc_id": 27,
+    "pdf_name": "colpali_paper",
+    "page_number": 13,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0013.jpg"
+  },
+  {
+    "doc_id": 28,
+    "pdf_name": "colpali_paper",
+    "page_number": 14,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0014.jpg"
+  },
+  {
+    "doc_id": 29,
+    "pdf_name": "colpali_paper",
+    "page_number": 15,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0015.jpg"
+  },
+  {
+    "doc_id": 30,
+    "pdf_name": "colpali_paper",
+    "page_number": 16,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0016.jpg"
+  },
+  {
+    "doc_id": 31,
+    "pdf_name": "colpali_paper",
+    "page_number": 17,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0017.jpg"
+  },
+  {
+    "doc_id": 32,
+    "pdf_name": "colpali_paper",
+    "page_number": 18,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0018.jpg"
+  },
+  {
+    "doc_id": 33,
+    "pdf_name": "colpali_paper",
+    "page_number": 19,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0019.jpg"
+  },
+  {
+    "doc_id": 34,
+    "pdf_name": "colpali_paper",
+    "page_number": 20,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/colpali_paper_p0020.jpg"
+  },
+  {
+    "doc_id": 35,
+    "pdf_name": "esa_space_environment",
+    "page_number": 1,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0001.jpg"
+  },
+  {
+    "doc_id": 36,
+    "pdf_name": "esa_space_environment",
+    "page_number": 2,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0002.jpg"
+  },
+  {
+    "doc_id": 37,
+    "pdf_name": "esa_space_environment",
+    "page_number": 3,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0003.jpg"
+  },
+  {
+    "doc_id": 38,
+    "pdf_name": "esa_space_environment",
+    "page_number": 4,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0004.jpg"
+  },
+  {
+    "doc_id": 39,
+    "pdf_name": "esa_space_environment",
+    "page_number": 5,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0005.jpg"
+  },
+  {
+    "doc_id": 40,
+    "pdf_name": "esa_space_environment",
+    "page_number": 6,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0006.jpg"
+  },
+  {
+    "doc_id": 41,
+    "pdf_name": "esa_space_environment",
+    "page_number": 7,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0007.jpg"
+  },
+  {
+    "doc_id": 42,
+    "pdf_name": "esa_space_environment",
+    "page_number": 8,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0008.jpg"
+  },
+  {
+    "doc_id": 43,
+    "pdf_name": "esa_space_environment",
+    "page_number": 9,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0009.jpg"
+  },
+  {
+    "doc_id": 44,
+    "pdf_name": "esa_space_environment",
+    "page_number": 10,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0010.jpg"
+  },
+  {
+    "doc_id": 45,
+    "pdf_name": "esa_space_environment",
+    "page_number": 11,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0011.jpg"
+  },
+  {
+    "doc_id": 46,
+    "pdf_name": "esa_space_environment",
+    "page_number": 12,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0012.jpg"
+  },
+  {
+    "doc_id": 47,
+    "pdf_name": "esa_space_environment",
+    "page_number": 13,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0013.jpg"
+  },
+  {
+    "doc_id": 48,
+    "pdf_name": "esa_space_environment",
+    "page_number": 14,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0014.jpg"
+  },
+  {
+    "doc_id": 49,
+    "pdf_name": "esa_space_environment",
+    "page_number": 15,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0015.jpg"
+  },
+  {
+    "doc_id": 50,
+    "pdf_name": "esa_space_environment",
+    "page_number": 16,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0016.jpg"
+  },
+  {
+    "doc_id": 51,
+    "pdf_name": "esa_space_environment",
+    "page_number": 17,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0017.jpg"
+  },
+  {
+    "doc_id": 52,
+    "pdf_name": "esa_space_environment",
+    "page_number": 18,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0018.jpg"
+  },
+  {
+    "doc_id": 53,
+    "pdf_name": "esa_space_environment",
+    "page_number": 19,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0019.jpg"
+  },
+  {
+    "doc_id": 54,
+    "pdf_name": "esa_space_environment",
+    "page_number": 20,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/esa_space_environment_p0020.jpg"
+  },
+  {
+    "doc_id": 55,
+    "pdf_name": "gpt4_paper",
+    "page_number": 1,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0001.jpg"
+  },
+  {
+    "doc_id": 56,
+    "pdf_name": "gpt4_paper",
+    "page_number": 2,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0002.jpg"
+  },
+  {
+    "doc_id": 57,
+    "pdf_name": "gpt4_paper",
+    "page_number": 3,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0003.jpg"
+  },
+  {
+    "doc_id": 58,
+    "pdf_name": "gpt4_paper",
+    "page_number": 4,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0004.jpg"
+  },
+  {
+    "doc_id": 59,
+    "pdf_name": "gpt4_paper",
+    "page_number": 5,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0005.jpg"
+  },
+  {
+    "doc_id": 60,
+    "pdf_name": "gpt4_paper",
+    "page_number": 6,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0006.jpg"
+  },
+  {
+    "doc_id": 61,
+    "pdf_name": "gpt4_paper",
+    "page_number": 7,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0007.jpg"
+  },
+  {
+    "doc_id": 62,
+    "pdf_name": "gpt4_paper",
+    "page_number": 8,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0008.jpg"
+  },
+  {
+    "doc_id": 63,
+    "pdf_name": "gpt4_paper",
+    "page_number": 9,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0009.jpg"
+  },
+  {
+    "doc_id": 64,
+    "pdf_name": "gpt4_paper",
+    "page_number": 10,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0010.jpg"
+  },
+  {
+    "doc_id": 65,
+    "pdf_name": "gpt4_paper",
+    "page_number": 11,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0011.jpg"
+  },
+  {
+    "doc_id": 66,
+    "pdf_name": "gpt4_paper",
+    "page_number": 12,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0012.jpg"
+  },
+  {
+    "doc_id": 67,
+    "pdf_name": "gpt4_paper",
+    "page_number": 13,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0013.jpg"
+  },
+  {
+    "doc_id": 68,
+    "pdf_name": "gpt4_paper",
+    "page_number": 14,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0014.jpg"
+  },
+  {
+    "doc_id": 69,
+    "pdf_name": "gpt4_paper",
+    "page_number": 15,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0015.jpg"
+  },
+  {
+    "doc_id": 70,
+    "pdf_name": "gpt4_paper",
+    "page_number": 16,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0016.jpg"
+  },
+  {
+    "doc_id": 71,
+    "pdf_name": "gpt4_paper",
+    "page_number": 17,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0017.jpg"
+  },
+  {
+    "doc_id": 72,
+    "pdf_name": "gpt4_paper",
+    "page_number": 18,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0018.jpg"
+  },
+  {
+    "doc_id": 73,
+    "pdf_name": "gpt4_paper",
+    "page_number": 19,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0019.jpg"
+  },
+  {
+    "doc_id": 74,
+    "pdf_name": "gpt4_paper",
+    "page_number": 20,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/gpt4_paper_p0020.jpg"
+  },
+  {
+    "doc_id": 75,
+    "pdf_name": "mistral_paper",
+    "page_number": 1,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0001.jpg"
+  },
+  {
+    "doc_id": 76,
+    "pdf_name": "mistral_paper",
+    "page_number": 2,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0002.jpg"
+  },
+  {
+    "doc_id": 77,
+    "pdf_name": "mistral_paper",
+    "page_number": 3,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0003.jpg"
+  },
+  {
+    "doc_id": 78,
+    "pdf_name": "mistral_paper",
+    "page_number": 4,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0004.jpg"
+  },
+  {
+    "doc_id": 79,
+    "pdf_name": "mistral_paper",
+    "page_number": 5,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0005.jpg"
+  },
+  {
+    "doc_id": 80,
+    "pdf_name": "mistral_paper",
+    "page_number": 6,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0006.jpg"
+  },
+  {
+    "doc_id": 81,
+    "pdf_name": "mistral_paper",
+    "page_number": 7,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0007.jpg"
+  },
+  {
+    "doc_id": 82,
+    "pdf_name": "mistral_paper",
+    "page_number": 8,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0008.jpg"
+  },
+  {
+    "doc_id": 83,
+    "pdf_name": "mistral_paper",
+    "page_number": 9,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0009.jpg"
+  },
+  {
+    "doc_id": 84,
+    "pdf_name": "mistral_paper",
+    "page_number": 10,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0010.jpg"
+  },
+  {
+    "doc_id": 85,
+    "pdf_name": "mistral_paper",
+    "page_number": 11,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0011.jpg"
+  },
+  {
+    "doc_id": 86,
+    "pdf_name": "mistral_paper",
+    "page_number": 12,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0012.jpg"
+  },
+  {
+    "doc_id": 87,
+    "pdf_name": "mistral_paper",
+    "page_number": 13,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0013.jpg"
+  },
+  {
+    "doc_id": 88,
+    "pdf_name": "mistral_paper",
+    "page_number": 14,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0014.jpg"
+  },
+  {
+    "doc_id": 89,
+    "pdf_name": "mistral_paper",
+    "page_number": 15,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0015.jpg"
+  },
+  {
+    "doc_id": 90,
+    "pdf_name": "mistral_paper",
+    "page_number": 16,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0016.jpg"
+  },
+  {
+    "doc_id": 91,
+    "pdf_name": "mistral_paper",
+    "page_number": 17,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0017.jpg"
+  },
+  {
+    "doc_id": 92,
+    "pdf_name": "mistral_paper",
+    "page_number": 18,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0018.jpg"
+  },
+  {
+    "doc_id": 93,
+    "pdf_name": "mistral_paper",
+    "page_number": 19,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0019.jpg"
+  },
+  {
+    "doc_id": 94,
+    "pdf_name": "mistral_paper",
+    "page_number": 20,
+    "total_pages": 20,
+    "image_path": "data/index/thumbnails/mistral_paper_p0020.jpg"
+  }
+]
